@@ -4,6 +4,6 @@ I do not own the rights to license this dataset.
 
 ............................
 
-This is my attempt on the dataset and I wwill keep udating the readme on all the changes.
+This is my attempt on the dataset and I will keep udating the readme on all the changes.
 
 ............................
