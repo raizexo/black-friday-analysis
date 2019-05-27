@@ -1,5 +1,5 @@
 # black-friday-analysis
-The dataset was taken from :https://datahack.analyticsvidhya.com/contest/black-friday/
+The dataset was taken from :https://datahack.analyticsvidhya.com/contest/black-friday/ .
 I do not own the rights to license this dataset.
 
 ............................
